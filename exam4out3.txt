@@ -1,0 +1,79 @@
+    1 	Acconci            3    18800.00
+		 1038 Spring Flowers      1     800.00
+		 1050 Cattle Ranch        1   10000.00
+		 1103 Trail End           1    8000.00
+    2 	Budd               3    35544.00
+		 1042 Coffee on the Trail     2    7544.00
+		 1086 Untitled (desert landscape)     2   18000.00
+		 1101 The Red Door        2   10000.00
+    3 	Carpenter         12   284975.00
+		 1010 Untitled (land with adobe)     3     800.00
+		 1013 Superstitions       3   78000.00
+		 1019 The White Heart     3    9300.00
+		 1021 Bead Wall           3   14000.00
+		 1022 The Cowboy          3    4200.00
+		 1025 Profile of a Woman     3     625.00
+		 1034 Beaver Pole Jumble     3   28000.00
+		 1058 The Gathering       3     250.00
+		 1063 Asleep in the Garden     3  110000.00
+		 1080 The Dust Behind     3   18000.00
+		 1095 The Spirit          3   20000.00
+		 1104 Untitled            3    1800.00
+    4 	Dill               3    38700.00
+		 1070 Beginnings          4   27500.00
+		 1079 Carrying the Mail     4    8000.00
+		 1111 Untitled (man and crucifix)     4    3200.00
+    5 	Edwards            3    41000.00
+		 1020 Untitled (Man holding coat)     5    3000.00
+		 1036 Blackhawk           5   25500.00
+		 1093 Antelopes           5   12500.00
+    6 	Fleming           13   171700.00
+		 1004 Seeking Shelter     6   52000.00
+		 1012 Man on Horseback     6    8000.00
+		 1016 Untitled            6    6000.00
+		 1017 Brittlecone         6    1300.00
+		 1033 Untitled (Woman abstract)     6    2500.00
+		 1053 Blue Eyed Indian     6   40000.00
+		 1056 Cavalry Is Coming     6    1900.00
+		 1066 Untitled (still life)     6   19500.00
+		 1075 Western Boots and Spurs     6    6000.00
+		 1077 Bull Riding         6    5200.00
+		 1085 Traces              6   20000.00
+		 1097 Untitled (Sea)      6    2800.00
+		 1110 Three Sisters       6    6500.00
+    7 	Garber             9    46862.00
+		 1024 Spirit and Nature     7     592.00
+		 1026 Untitled (couple)     7    4000.00
+		 1032 Rising Sun          7    2000.00
+		 1037 Floating World      7    2350.00
+		 1049 Buttercup with Red Lip     7     400.00
+		 1054 Snake Charmer       7    4500.00
+		 1061 Untitled Mural      7    3520.00
+		 1091 Stone Palette       7   11500.00
+		 1114 Storytelling at the Campfire     7   18000.00
+    8 	Higgins            9    55700.00
+		 1018 Mountain Scene      8    2500.00
+		 1057 Untitled            8    4500.00
+		 1060 Story Sticks        8     650.00
+		 1064 Spirit Columns      8    7000.00
+		 1067 Owl in Flight       8    7000.00
+		 1068 Moonlight           8    9750.00
+		 1071 Ride the Rapids     8     300.00
+		 1074 Storm on the Rise     8    8000.00
+		 1109 Friends             8   16000.00
+    9 	Ibe                7    59792.00
+		 1001 Red Rock Mountain     9   18000.00
+		 1002 Offerings           9   10000.00
+		 1044 Mexican Fiesta      9   14000.00
+		 1055 Starlit Evening     9    9500.00
+		 1069 Renaissance         9    5500.00
+		 1084 Crossing the Platt River     9    2200.00
+		 1098 Sweet Project       9     592.00
+   10 	Kollasch           7    37125.00
+		 1028 Tired Cowboy       10    4700.00
+		 1047 Medicine Man       10    2500.00
+		 1048 Comfy Chair        10     800.00
+		 1072 Funnel             10    4500.00
+		 1089 Life Lessons       10    4125.00
+		 1096 Ceremonial Sticks    10   15000.00
+		 1113 Shadow House       10    5500.00
